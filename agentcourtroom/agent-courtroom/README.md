@@ -4,7 +4,7 @@
 
 Built for **AgentX 2026 – AI Engineering Exhibition**, GL Bajaj Institute of Technology and Management (CSE-AIML).
 
-**Team:** Yash Veer Singh · Tushar Shukla · Yash Kumar · Vivek Yadav · Vaishnavi Gupta
+**Team:** Yash Veer Singh · Tushar Shukla · Yash Kumar · Vivek Yadav · Tanishk Singh  .  Vishnu Kumar
 
 ---
 
